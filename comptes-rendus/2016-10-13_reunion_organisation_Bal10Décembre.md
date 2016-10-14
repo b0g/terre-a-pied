@@ -13,7 +13,7 @@ Après un bilan du bal de l'année Dernière il apparait que nous pouvons simpli
 - La Contrebande (200€/pers * 4 + 150€ de frais de déplacement) 950 €
 - La Burle (250€/pers * 2 + ~200€ de frais de déplacement) 700€
 
-** Sélection pour le Bal : **
+**Sélection pour le Bal :**
 
   - Nils Exibard & Paul (au violon)
   - La Burle
