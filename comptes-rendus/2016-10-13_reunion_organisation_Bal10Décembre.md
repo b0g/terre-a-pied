@@ -6,26 +6,26 @@ Après un bilan du bal de l'année Dernière il apparait que nous pouvons simpli
 
 ### Choix des Groupes
 
-** Propositions : 
+** Propositions : **
 
 - Berny Trad School (200€/pers * 3 = 600€) peut-être négocié 450€
 - Nils Exibard Solo + Surprise (150€ seul, 200€ avec Paul au violon) 200€
 - La Contrebande (200€/pers * 4 + 150€ de frais de déplacement) 950 €
 - La Burle (250€/pers * 2 + ~200€ de frais de déplacement) 700€
 
-** Sélection pour le Bal : 
+** Sélection pour le Bal : **
 
   - Nils Exibard & Paul (au violon)
   - La Burle
 
-** Salle : 
+** Salle : **
 
   - La salle Texier (Saint-Martin-d'Hères) 
 	Capacité : 180 Personnes
 
 ### Organisation 
 
-** Améliorations : 
+** Améliorations : **
 
 Par rapport à l'année dernière, une meilleure définition des tâches est établie afin de pouvoir les répartir entre les différents Motivés/Bénévoles
 
@@ -35,12 +35,12 @@ Moins de nourriture à vendre sera prévu (pour éviter du gachi comme ce fût l
 
 Un prix Minimum de 5€ sera demandé pour le bal, et un prix de soutien de 10€ (ou plus) sera explicité à la billeterie (Nous accepterons également ceux qui voudront donner ~ 8,63€)
 
-** Pratique :
+** Pratique : **
 
 
 [Une feuille excel](https://docs.google.com/spreadsheets/d/1bsvmongUz-5gvui_WhSqK63bPgphxeyOE7HKicdwoa8/edit?usp=sharing) est mise à Disposition afin de s'organiser pour la répartition des taches et leur avancement 
 
-** Responsables Bénévoles à nommer
+** Responsables Bénévoles à nommer **
 
 Pour tout ce qui est de l'organisation réelle, voir la [feuille excel](https://docs.google.com/spreadsheets/d/1bsvmongUz-5gvui_WhSqK63bPgphxeyOE7HKicdwoa8/edit?usp=sharing)
 
@@ -51,7 +51,7 @@ Pour tout ce qui est de l'organisation réelle, voir la [feuille excel](https://
 - ~Sono
 - Com (Mylène-Boris)
 
-** Rappel Déroulement du Bal :
+** Rappel Déroulement du Bal :**
 
 - Vendredi :
 	- Récupérer la clé de la salle
@@ -77,7 +77,7 @@ Pour tout ce qui est de l'organisation réelle, voir la [feuille excel](https://
 
 ### Budget Prévisionnel 
 
-** Dépenses prévisionnelles : 
+** Dépenses prévisionnelles : **
 
 - Nils + La Burle : 200€ + 700€
 - Sono : 200€
@@ -86,7 +86,7 @@ Pour tout ce qui est de l'organisation réelle, voir la [feuille excel](https://
 
 Objectif des dépenses : 1400 €
 
-** Recettes prévisionnelles : 
+** Recettes prévisionnelles : **
 
 - Objectif Zero [1400€] : 
 	- 20 entrées gratuites
